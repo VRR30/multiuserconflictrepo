@@ -13,3 +13,5 @@ def maximum(a, b):
 a = 2
 b = 4
 print(maximum(a, b))
+
+#Added another functinality by Aws developer1
